@@ -1,0 +1,61 @@
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\appsettings.json
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\ABC Marketing.exe
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\ABC Marketing.deps.json
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\ABC Marketing.runtimeconfig.json
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\ABC Marketing.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\ref\ABC Marketing.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\ABC Marketing.pdb
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\Humanizer.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\obj\Debug\net6.0\ABC Marketing.csproj.AssemblyReference.cache
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\obj\Debug\net6.0\ABC Marketing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\obj\Debug\net6.0\ABC Marketing.AssemblyInfoInputs.cache
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\obj\Debug\net6.0\ABC Marketing.AssemblyInfo.cs
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\obj\Debug\net6.0\ABC Marketing.csproj.CoreCompileInputs.cache
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\obj\Debug\net6.0\ABC Marketing.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\obj\Debug\net6.0\ABC Marketing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\obj\Debug\net6.0\scopedcss\bundle\ABC Marketing.styles.css
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\obj\Debug\net6.0\ABC Marketing.csproj.CopyComplete
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\obj\Debug\net6.0\ABC Marketing.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\obj\Debug\net6.0\ref\ABC Marketing.dll
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\obj\Debug\net6.0\ABC Marketing.pdb
+C:\Users\thari\source\repos\ABC Marketing\ABC Marketing\obj\Debug\net6.0\ABC Marketing.genruntimeconfig.cache
